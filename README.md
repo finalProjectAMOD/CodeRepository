@@ -26,4 +26,4 @@ The dataset we used in this study was obtained from the UCI Machine Learning Rep
 ## Model Deployment
 Before the deployment of the model, we first need to consider how end users can interact with the predictions of the model to determine how to deploy a model. We save the model using the Python Pickle Module.
 
-!["Model Deployment"](/Users/sahilnagpal/Desktop/TrentU/MajorProject/CodeRepository/Screenshots/Picture1.png)
+!["Model Deployment"](https://github.com/finalProjectAMOD/CodeRepository/blob/main/Screenshots/Picture1.png?raw=true)
